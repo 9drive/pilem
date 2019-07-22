@@ -1,0 +1,35 @@
+<html>
+<head>
+<script type="text/javascript" src="https://rawcdn.githack.com/umar83/player891/bb6ff4362eb801cfdb2c32e59cc1d02d83e769e9/jwplayer.js"></script>
+             <script>jwplayer.key="8tDNv8+jONqSNxm1FcyM5QINXD2BnLjNhpqUcsE2AzQ=";</script>
+</head>
+<body>
+<div id="myElement">Loading the player...</div>
+<script type="text/javascript">
+	var playerInstance = jwplayer("myElement")
+playerInstance.setup({
+playlist: [{
+   image: " https://fanart.tv/fanart/movies/9533/moviethumb/red-dragon-522d41d16142d.jpg",
+tracks: [{ 
+            file: " https://raw.githubusercontent.com/9drive/sub/master/hotelmumbai.srt", 
+            label: "indonesia",
+            kind: "captions",
+            "default": true 
+        },{ 
+            file: "/assets/captions-fr.vtt", 
+            kind: "captions",
+            label: "englis"
+        }],
+"sources":[{"type": "video/mp4", "label": "720p", "file": "https://lh3.googleusercontent.com/81sVE2FjZjtjvwGENaGX0roh-Y8gmQtgwJkCB-Qy7dwowQ3sxhpSiJBpMHFvYLvpyZwXXg9H42eDyhe190nGsVz-cUEYGBeaNkhgofT0uPsRbzp4qSFcrfnTV1XC2xsqxbzlsn5G=m22"},{"type": "video/mp4", "label": "360p", "file": "https://lh3.googleusercontent.com/81sVE2FjZjtjvwGENaGX0roh-Y8gmQtgwJkCB-Qy7dwowQ3sxhpSiJBpMHFvYLvpyZwXXg9H42eDyhe190nGsVz-cUEYGBeaNkhgofT0uPsRbzp4qSFcrfnTV1XC2xsqxbzlsn5G=m18"}]			}],
+			autostart: "true",
+			allowfullscreen: "true",
+			width: "100%",
+			aspectratio: "16:9",
+			stretching: "uniform",
+			preload: "metadata",
+			livetimeout: "30",
+			viewability: "true",
+		});
+	</script>
+</body>
+</html>
