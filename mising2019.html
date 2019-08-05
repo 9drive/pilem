@@ -1,0 +1,35 @@
+<html>
+<head>
+<script type="text/javascript" src="https://rawcdn.githack.com/umar83/player891/bb6ff4362eb801cfdb2c32e59cc1d02d83e769e9/jwplayer.js"></script>
+             <script>jwplayer.key="8tDNv8+jONqSNxm1FcyM5QINXD2BnLjNhpqUcsE2AzQ=";</script>
+</head>
+<body>
+<div id="myElement">Loading the player...</div>
+<script type="text/javascript">
+	var playerInstance = jwplayer("myElement")
+playerInstance.setup({
+playlist: [{
+   image: " https://fanart.tv/fanart/movies/9533/moviethumb/red-dragon-522d41d16142d.jpg",
+tracks: [{ 
+            file: " https://raw.githubusercontent.com/9drive/sub/master/Missing.srt", 
+            label: "indonesia",
+            kind: "captions",
+            "default": true 
+        },{ 
+            file: "/assets/captions-fr.vtt", 
+            kind: "captions",
+            label: "englis"
+        }],
+"sources":[{"type": "video/mp4", "label": "720p", "file": "https://lh3.googleusercontent.com/XGuslfa8cnV86rbSx42YOfkz1BFO-QqEMF0lLaz46pkXK2-LLEQPq9K5NvxCg986jkU8VLKWcjnbaH2GQkqLbX-NJsr2uKs9EZpmvExfaQ51fqVWXVmSyt7k8qeVQOTDXYHlb5PVgQ=m22"},{"type": "video/mp4", "label": "360p", "file": "https://lh3.googleusercontent.com/XGuslfa8cnV86rbSx42YOfkz1BFO-QqEMF0lLaz46pkXK2-LLEQPq9K5NvxCg986jkU8VLKWcjnbaH2GQkqLbX-NJsr2uKs9EZpmvExfaQ51fqVWXVmSyt7k8qeVQOTDXYHlb5PVgQ=m18"}]			}],
+			autostart: "true",
+			allowfullscreen: "true",
+			width: "100%",
+			aspectratio: "16:9",
+			stretching: "uniform",
+			preload: "metadata",
+			livetimeout: "30",
+			viewability: "true",
+		});
+	</script>
+</body>
+</html>
