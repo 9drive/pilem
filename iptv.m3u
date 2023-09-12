@@ -10,11 +10,8 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3FmfK6J/indosiar.jpg" group-title="NASIONAL", Indosiar
-#https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3FmfK6J/indosiar.jpg" group-title="NASIONAL", Indosiar
-#http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -23,7 +20,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7rczGs3/oktv.jpg" group-title="NASIONAL", Ok Tv 
-#https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd 
+https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd 
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -33,15 +30,9 @@
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/px7Sbrx/mnctv.jpg" group-title="NASIONAL", Mnctv
 #https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/px7Sbrx/mnctv.jpg" group-title="NASIONAL", Mnctv2
-#http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/px7Sbrx/mnctv.jpg" group-title="NASIONAL", Mnctv3
-#https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/px7Sbrx/mnctv.jpg" group-title="NASIONAL", Mnctv4
-#http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
