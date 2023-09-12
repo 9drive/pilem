@@ -45,13 +45,6 @@ http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C7pWZj4/gtv.jpg" group-title="NASIONAL",Global Tv 
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C7pWZj4/gtv.jpg" group-title="NASIONAL",Global Tv1
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C7pWZj4/gtv.jpg" group-title="NASIONAL",Global Tv2
@@ -66,13 +59,6 @@ http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd 
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t3tDwG5/rcti.jpg" group-title="NASIONAL",Rcti
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/t3tDwG5/rcti.jpg" group-title="NASIONAL",Rcti1
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/t3tDwG5/rcti.jpg" group-title="NASIONAL",Rcti2
