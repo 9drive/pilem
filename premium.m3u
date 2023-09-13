@@ -1,17 +1,3 @@
-#EXTM3U x-tvg-url="https://stavol.masuk.web.id/epg.xml" 
-#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" 
-#EXTM3U x-url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml" 
-#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml" 
-#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
-#EXTM3U x-url-tvg="https://strimz.my.id/epg"
-#EXTM3U url-tvg="https://strimz.my.id/epg"
-#EXTM3U x-url-tvg="https://github.com/thefirefox12537/streams/blob/master/epg/local/guide.xml"
-#EXTM3U url-tvg="https://github.com/AqFad2811/epg/raw/main/epg.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/thailand.xml" m3uautoload=1 cache=500 deinterlace=1
-
-
-
-#########################   LIVE EVENT   ##############################
-#######################################################################
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/xCyK0ZHX/Super-Sport-Premier-League.png" group-title=" SuperSport ", SuperSport Premier League
 http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2187001
 ##http://raw.bitnode.pm:81/giorgi/giorgi/38703
