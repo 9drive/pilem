@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTM3U url-tvg="https://epg.urfan.web.id" refresh="3600"
+#EXTM3U 
+url-tvg="https://epg.urfan.web.id" refresh="3600"
 ##########################
 ######## LPP TVRI ########
 ##########################
