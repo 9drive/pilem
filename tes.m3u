@@ -801,6 +801,70 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/FilmBox_Premium_log.png" group-title="AMIN TV MOVIES", FilmBox Premium
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/1705
+
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/e2b44c8908559da092950702153566ee.png" group-title="AMIN TV MOVIES", DISNEY HD
+http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/5356
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/HBO-logo.png" group-title="AMIN TV MOVIES", HBO
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197972
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png" group-title="AMIN TV MOVIES", HBO Family
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197055
+
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/71-717989_1500-x-700-2-hbo-hits-hd-png.png" group-title="AMIN TV MOVIES", HBO Hits
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/196480
+
+#EXTINF:-1 tvg-logo="https://ia904503.us.archive.org/32/items/HboComedy/hbo comedy.png" group-title="AMIN TV MOVIES", HBO Comedy
+http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/151864
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="AMIN TV MOVIES", Bioskop Indonesia
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/264801
+
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/customthumb/2014/10/14/4/155423_cinemaxx.jpg" group-title="AMIN TV MOVIES", Cinemax
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/197964
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-hSjgR2X3558/W7Q7SFzKEbI/AAAAAAAAmVg/UZn5xowoPlgTenyfZjxsUJuve5z3wuzGQCLcBGAs/s1600/galaxy-premium-tv-channel-logo.jpg" group-title="AMIN TV MOVIES", Galaxy Premium
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/264774
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/110.jpg" group-title="AMIN TV MOVIES", CCM
+http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/87.jpg" group-title="AMIN TV MOVIES", CINEMA WORLD
+http://210.210.155.37/dr9445/h/h04/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/109.jpg" group-title="AMIN TV MOVIES", MY CINEMA ASIA
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/114.jpg" group-title="AMIN TV MOVIES", MY FAMILY CHANNEL
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+
+#EXTINF:-1 tvg-id="Action24.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Action_24_new_logo.jpg" group-title="AMIN TV MOVIES",Action 24 HD
+http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BollywoodHD.ru" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="AMIN TV MOVIES",Bollywood HD
+https://sc.id-tv.kz/bollywood_hd.m3u8
+
+#EXTINF:-1 tvg-id="RedboxSpotlight.us" tvg-logo="https://i.imgur.com/OrGCnPg.jpg" group-title="AMIN TV MOVIES",Redbox 1: Spotlight HD
+https://spotlight-redbox.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopCine.us" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="AMIN TV MOVIES",Top Cine HD
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+
+#EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="dunia sinema" tvg-logo="https://dl.dropboxusercontent.com/s/dh5ek8aw769ut0n/duniasinema.png" group-title="AMIN TV MOVIES",Dunia Sinema
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTINF:-1 tvg-id="MovieSphere.us" group-title="AMIN TV MOVIES",MovieSphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" group-title="AMIN TV MOVIES",MyTime Movie Network
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+
+
+
+
 #########################
 ######## HIBURAN ########
 #########################
