@@ -487,7 +487,7 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4c
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ENTERTAINMENT" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1692691581_tvchannels_v1.jpg", Nadoo Korean
-http://210.210.155.35/uq2663/h/h125/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=NaDooKorean
+#http://210.210.155.35/uq2663/h/h125/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=NaDooKorean
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8?app_type=web&userid=jjj&chname=NaDooKorean
 
 #EXTINF:-1  tvg-id="ext" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/rGTHbAM.png", Sony GEM (F*)
@@ -1136,18 +1136,23 @@ https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.m
 
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="MOVIES",HBO
 https://nonton.site:8443/ekos/7483/26595
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="MOVIES",HBO1
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/197972
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="MOVIES",HBO Hits
 https://nonton.site:8443/ekos/7483/26596
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="MOVIES",HBO Hits1
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/196480
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MOVIES",HBO Family
 https://nonton.site:8443/ekos/7483/26598
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MOVIES",HBO Family1
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/197055
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="MOVIES",HBO Signature
 https://nonton.site:8443/ekos/7483/26597
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="MOVIES",HBO Signature1
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/221948
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="MOVIES",Cinemax
 https://nonton.site:8443/ekos/7483/2156
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="MOVIES",Cinemax1
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/197964
 
 =======================================
