@@ -405,7 +405,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/axn.m3u8
 #KODIPROP:inputstream.adaptive.license_type=https://cubmupart4.apiv2x.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-EXTINF:-1 tvg-url=""tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="ENTERTAINMENT",Warner TV
+#EXTINF:-1 tvg-url=""tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="ENTERTAINMENT",Warner TV
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_warner_small.png" group-title="ENTERTAINMENT",Warner TV (N*)
