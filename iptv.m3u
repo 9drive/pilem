@@ -10,7 +10,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3FmfK6J/indosiar.jpg" group-title="NASIONAL",Indosiar
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+http://tvnid.x10.mx/vidio/master.m3u8
 
 
 
