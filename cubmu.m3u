@@ -1017,7 +1017,7 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="KIDS",Mentari TV (M*)
-https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880796
+http://tvnid.x10.mx/vidio/master-3.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="KIDS",HOOREE (F*)
 https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/hooree.m3u8
